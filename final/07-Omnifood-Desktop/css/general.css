@@ -170,7 +170,7 @@ body {
   font-size: 2rem;
   font-weight: 600;
   padding: 1.6rem 3.2rem;
-  border-radius: 9px;
+  border-radius: 10px;
 
   /* Only necessary for .btn */
   border: none;
